@@ -1,2 +1,4 @@
-[README.md.txt](https://github.com/ArthruCoelho/P-gina-Inicial-Instagram-/files/7102599/README.md.txt)
-# P-gina-Inicial-Instagram-
+#Olá Mundo :earth_americas:
+
+###Esse é meu sitezinho do Instagram, com um estilo mais pixelado!
+###Do desafio Recriando página inicial do Instagram.
